@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: CodeGenerateTool
+
+server:
+  port: 8888
